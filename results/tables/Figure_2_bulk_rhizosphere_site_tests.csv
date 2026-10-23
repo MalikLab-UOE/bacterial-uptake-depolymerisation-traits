@@ -1,0 +1,4 @@
+"site","n_bulk","n_rhizosphere","median_difference","rank_biserial","p_value","effect_magnitude"
+"Poplar - Clatskanie",651,505,0.0791812460476248,0.160581588112728,2.72469426951746e-06,"small"
+"Poplar - Corvallis",101,442,0.121519024343147,0.163366336633663,0.010373807411597,"small"
+"Poplar - Tennessee",72,63,0.0637429628110899,0.0284391534391535,0.777620858245207,"negligible"

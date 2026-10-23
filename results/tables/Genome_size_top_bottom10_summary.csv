@@ -1,0 +1,3 @@
+strategy,n,median_genome_size_Mb,q25_genome_size_Mb,q75_genome_size_Mb,q10_ratio,q90_ratio,wilcoxon_p_value,cliff_delta,delta_ci_low,delta_ci_high,delta_magnitude,delta_threshold,practical_difference,group_letter
+Bottom 10%,24824,2.706098,2.034126,3.549312,0.3,4.25,2.567791870309162e-28,0.05718967565658856,0.04706043593459348,0.06730715504707567,negligible,0.147,FALSE,a
+Top 10%,24826,2.371082,1.8370415000000002,3.8305525,0.3,4.25,2.567791870309162e-28,0.05718967565658856,0.04706043593459348,0.06730715504707567,negligible,0.147,FALSE,a

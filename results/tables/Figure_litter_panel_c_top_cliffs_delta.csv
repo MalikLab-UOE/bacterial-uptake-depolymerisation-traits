@@ -1,0 +1,2 @@
+group1,group2,n1,n2,median1,median2,wilcoxon_W,p_value,cliff_delta,delta_ci_low,delta_ci_high,p_adj_BH,delta_magnitude,meaningful_difference,letter_bacteria,letter_fungi
+Bacteria,Fungi,439,68,43,175.5,1784.5,1.4278803816160443e-31,-0.8804435213721025,-0.9096259499952755,-0.8426145097382706,1.4278803816160443e-31,large,TRUE,a,b

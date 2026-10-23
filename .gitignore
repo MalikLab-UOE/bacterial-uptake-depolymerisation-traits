@@ -1,0 +1,24 @@
+.DS_Store
+Thumbs.db
+
+# R session and IDE files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Temporary/editor files
+*~
+*.swp
+*.tmp
+
+# Generated high-memory Figure 3 intermediates
+results/layers/
+results/trees/

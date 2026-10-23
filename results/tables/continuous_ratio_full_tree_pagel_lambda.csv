@@ -1,0 +1,2 @@
+n,trait,pagel_lambda,logLik_lambda,logLik_lambda0,likelihood_ratio,df,P_value,mean_log10_ratio,sd_log10_ratio,nonpositive_edges_regularised,edge_length_epsilon
+249310,log10(binary uptake repertoire / binary depolymerisation repertoire),0.956441270682641,-48118.3166899555,-246082.912803305,395929.1922267,1,0,-0.383949264860783,0.649286895550655,2,2.5e-09

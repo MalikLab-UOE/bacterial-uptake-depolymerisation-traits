@@ -404,7 +404,16 @@ pair_plots <- lapply(seq_along(results), function(i) {
     plot_layout(widths = c(1, 1)) +
     plot_annotation(title = dataset_levels[[i]])
 
-  wrap_elements(full = pair)
+  cowplot::ggdraw(pair) +
+    cowplot::draw_label(
+      letters[[i]],
+      x = 0.004,
+      y = 0.996,
+      hjust = 0,
+      vjust = 1,
+      fontface = "bold",
+      size = 14
+    )
 })
 
 figure_body <- wrap_plots(
